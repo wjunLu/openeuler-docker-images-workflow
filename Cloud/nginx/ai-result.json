@@ -1,0 +1,1 @@
+{"success": true, "package_name": "nginx", "version": "1.27.2", "files_created": ["Cloud/nginx/1.27.2/24.03-lts/Dockerfile", "Cloud/nginx/meta.yml", "Cloud/nginx/README.md"]}
